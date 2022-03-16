@@ -1,0 +1,5 @@
+I used the Pycaret Association Rules module (pycaret.arules) to discover relationships between variables in a Retail dataset. 
+I Connected the dataset to Power BI, ran a python script to finally analyze the data and obtain insights. 
+The objective is to determine which are the clients that generate the highest profitability, 
+what these types of clients buy, and the probabilities that a client will buy a product related to their previous purchases. 
+In this way, a promotion strategy can be designed to increase sales.
